@@ -1,0 +1,4 @@
+repository "testproject@inspiredorange@cloud"
+  path "/"
+    br "/main"
+    co "/main"
